@@ -11,6 +11,7 @@ int main()
     sayHi ("Mike", 30);
     sayHi ("Buba", 40);
     sayHi ("Mindjihvarga4ka", 69);
+    //neshto
 
     return 0;
 }
